@@ -18,7 +18,7 @@ The LLama-Coding-Bot is a Streamlit-based chatbot designed to assist users in le
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/codewithleo1/LLama-Coding-Bot
    cd LLama-Coding-Bot
    ```
 
